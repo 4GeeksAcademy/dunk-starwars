@@ -1,0 +1,11 @@
+.container {
+    background-color: rgba(0, 0, 0, 0.329);
+    backdrop-filter: blur(10px);
+    border-radius: 5px;
+    padding: 20px;
+
+}
+
+h4 {
+    color: rgb(248, 63, 63);
+}
